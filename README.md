@@ -1,1 +1,1 @@
-# DAV_Assignment_DataAnalysis
+This repository contains end-to-end analytical and machine learning workflows built to solve seven diverse, real-world data problems. The work spans energy analytics, pollution trend assessment, market segmentation, supervised and unsupervised ML, model validation, and NLP-based spam detection, based on the structured assignment described in the accompanying PPT
