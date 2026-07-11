@@ -18,7 +18,7 @@ This repository contains end-to-end analytical and machine learning workflows bu
 * **Key Outcome:** Resolved widespread unit inconsistencies and isolated severe systemic anomalies from 2008.
 
 ### 2. Pollution Trend Assessment
-* **Task:** Designed a cross-correlation framework to merge power plant operational metrics with historical CPCB/WHO ambient air quality data ($\text{PM}_{2.5}$, $\text{PM}_{10}$, $\text{NO}_x$, $\text{SO}_2$).
+* **Task:** Designed a cross-correlation framework to merge power plant operational metrics with historical CPCB/WHO ambient air quality data.
 * **Key Outcome:** Created a clear pipeline to map structural emission footprints across distinct corporate and public energy sectors.
 
 ### 3. Safety Capacity & Operations Audit
