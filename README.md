@@ -5,9 +5,9 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-%23145A32.svg?style=flat)](https://xgboost.readthedocs.io/)
 [![NLTK](https://img.shields.io/badge/NLTK-NLP-Green.svg)](https://www.nltk.org/)
 
-This repository contains end-to-end analytical and machine learning workflows built to solve seven diverse, real-world data problems[cite: 1]. The work spans energy analytics, pollution trend assessment, market segmentation, supervised and unsupervised ML, model validation, and NLP-based spam detection, based on the structured assignment described in the accompanying PPT[cite: 1].
+This repository contains end-to-end analytical and machine learning workflows built to solve seven diverse, real-world data problems[cite: 1]. The work spans energy analytics, pollution trend assessment, market segmentation, supervised and unsupervised ML, model validation, and NLP-based spam detection, based on the structured assignment described in the accompanying PPT.
 
-> 🏆 **Project Impact:** Based on the analytical depth, engineering quality, and performance of these workflows across all seven tasks, alongside a subsequent technical interview, I was selected as a **Project Lead** in the Data Analytics and Visualization Team[cite: 1].
+> 🏆 **Project Impact:** Based on the analytical depth, engineering quality, and performance of these workflows across all seven tasks, alongside a subsequent technical interview, I was selected as a **Project Lead** in the Data Analytics and Visualization Team.
 
 ---
 
